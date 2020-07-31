@@ -31,7 +31,7 @@ datascience, machine learning and deep learning projects
   * language embedding concept used.
   * construct deep neural network using keras functional api.
   
-# The below project done for completion of Coursera deeplearning.ai's Convolutional Neural Network Course.
+# The below project done for completion of Coursera deeplearning.ai's Convolutional Neural Networks in Tensorflow Course.
 
 *Project_7a......used cnn to classify between cat and dog.
 
