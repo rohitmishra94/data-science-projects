@@ -33,11 +33,11 @@ datascience, machine learning and deep learning projects
   
 #The below project done for completion of Coursera deeplearning.ai's Convolutional Neural Network Course
   
-  #Project_7a
-    * used cnn to classify between cat and dog
-  #Project_7b
-    * data augmentation using keras image data generator
-  #Project_7c
-    * concept of Transfer learning used to classify images.
-  #Project_7d
-    * Multiclass classification cnn
+  *Project_7a
+   * used cnn to classify between cat and dog
+  *Project_7b
+   * data augmentation using keras image data generator
+  *Project_7c
+   * concept of Transfer learning used to classify images.
+  *Project_7d
+   * Multiclass classification cnn
