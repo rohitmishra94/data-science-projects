@@ -26,7 +26,7 @@ datascience, machine learning and deep learning projects
   * Used keras Image datagenerator and Transfer learning method.
   * Cnn model with Inception V3 transfer learning approach.
   
-#Project_6_Predicting_price_of_used_phones
+# Project_6_Predicting_price_of_used_phones
   * The objective of project is to predict used phone price given model discription and additional info.
   * language embedding concept used.
   * construct deep neural network using keras functional api.
