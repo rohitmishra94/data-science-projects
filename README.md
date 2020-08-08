@@ -41,7 +41,7 @@ datascience, machine learning and deep learning projects
 
 *Project_7d......Multiclass classification cnn.
 
-# Project_8_Multi_task_Convolution Neural Network
+# Project_8_Multi_task_Cascade_Convolution Neural Network
  * The objective of task is to detect face in the given image.
  * Used Multi task convolution neural network model developed by Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li ,2016
  * Refrence paper for project at https://arxiv.org/abs/1604.02878
